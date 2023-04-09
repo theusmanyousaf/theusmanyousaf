@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **officialusmanyousaf@gmail.com**
 
-- ⚡ Fun fact **I work in a cattle Farm! and I am a Computer Science Student as well.**
+- ⚡ Fun fact **I'm a cattle Farm worker currently studying Computer Science**
 
 <hr>
 
