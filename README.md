@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **officialusmanyousaf@gmail.com**
 
-- ⚡ Fun fact **I'm a cattle Farm worker currently studying Computer Science**
+- ⚡ Fun fact **나는 한국어를 공부하고 있어요.**
 
 <hr>
 
