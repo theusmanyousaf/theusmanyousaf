@@ -14,8 +14,8 @@
 
 <!-- - ⚡ Fun fact **나는 한국어를 공부하고 있어요.** -->
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3>Connect with me:</h3>
+<p>
 <a href="https://twitter.com/theusmanyousaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theusmanyousaf" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/theusmanyousaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theusmanyousaf" height="30" width="40" /></a>
 </p>
